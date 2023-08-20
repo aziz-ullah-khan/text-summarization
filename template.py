@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import logging
 
-logging.basicConfig(level=logging.INFO, force='[%(asctime)]: %(message)s:')
+logging.basicConfig(level=logging.INFO, format='[%(asctime)]: %(message)s:')
 
 project_name = "textSummarization" 
 
