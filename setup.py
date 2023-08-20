@@ -7,7 +7,7 @@ __version__ = '0.0.0'
 
 REPO_NAME = 'text-summarization'  #repository name 
 AUTHOR_USER_NAME = 'aziz-ullah-khan' 
-SRC_REPO = 'text-summarization'  # textSummarization will be best nexttime 
+SRC_REPO = 'textSummarization' 
 AUTHOR_EMAIL = 'azizullah444@gmail.com'
 
 setuptools.setup(
